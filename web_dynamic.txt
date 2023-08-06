@@ -1,0 +1,18 @@
+ web_dynamic
+├──  static
+│  ├──  images
+│  │  ├──  icon.png
+│  │  ├──  icon_bath.png
+│  │  ├──  icon_bed.png
+│  │  ├──  icon_group.png
+│  │  └──  logo.png
+│  └──  styles
+│     ├──  3-footer.css
+│     ├──  3-header.css
+│     ├──  4-common.css
+│     ├──  6-filters.css
+│     ├──  8-places.css
+│     └──  w3c_validator.py
+├──  0-hbnb.html
+├──  0-hbnb.py
+└──  __init__.py

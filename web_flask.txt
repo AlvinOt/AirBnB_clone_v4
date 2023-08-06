@@ -1,0 +1,40 @@
+ web_flask
+├──  static
+│  ├──  images
+│  │  ├──  icon.png
+│  │  ├──  icon_bath.png
+│  │  ├──  icon_bed.png
+│  │  ├──  icon_group.png
+│  │  └──  logo.png
+│  └──  styles
+│     ├──  3-footer.css
+│     ├──  3-header.css
+│     ├──  4-common.css
+│     ├──  6-filters.css
+│     ├──  8-places.css
+│     └──  w3c_validator.py
+├──  templates
+│  ├──  5-number.html
+│  ├──  6-number_odd_or_even.html
+│  ├──  7-states_list.html
+│  ├──  8-cities_by_states.html
+│  ├──  9-states.html
+│  ├──  10-hbnb_filters.html
+│  ├──  100-hbnb.html
+│  ├──  100-hbnb.html~
+│  └──  w3c_validator.py
+├──  0-hello_route.py
+├──  1-hbnb_route.py
+├──  2-c_route.py
+├──  3-python_route.py
+├──  4-number_route.py
+├──  5-number_template.py
+├──  6-number_odd_or_even.py
+├──  7-states_list.py
+├──  8-cities_by_states.py
+├──  9-states.py
+├──  10-hbnb_filters.py
+├──  100-dump.sql
+├──  100-hbnb.py
+├──  __init__.py
+└──  README.md
